@@ -32,7 +32,7 @@ On Django 1.2.7:
 .. _jQuery: http://jquery.com/
 .. _jQuery UI: http://jqueryui.com/
 .. _django-cbv: http://pypi.python.org/pypi/django-cbv
-.. _django-missing: https://bitbucket.org/mitar/django-missing
+.. _django-missing: https://github.com/mitar/django-missing
 .. _django-guardian: http://readthedocs.org/docs/django-guardian/en/v1.0.2/
 
 Installation
